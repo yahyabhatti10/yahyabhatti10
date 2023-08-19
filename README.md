@@ -1,6 +1,6 @@
 ## Hey there 👋, I'm [Yahya](https://www.linkedin.com/in/muhammad-yahya10)!
 
-### Computer Science Student 🖥📱 | Machine Learning & Data Engineering Enthusiast 🧠 | Web Developer 🌐
+### Computer Science Student 🖥 | Machine Learning & Data Engineering Enthusiast 🧠 | Web Developer 🌐
 
 I am a dedicated Computer Science student at the prestigious University of Management and Technology, where I've been cultivating a deep-rooted passion for programming, problem-solving, and technology exploration. With a keen eye for detail and an insatiable curiosity, I am on a continuous journey to evolve as a developer while staying ahead in the dynamic world of technology.
 
