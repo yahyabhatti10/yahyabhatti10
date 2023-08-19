@@ -29,7 +29,7 @@ My passion for technology extends to the realms of Machine Learning and Artifici
 <p align="left"> 
 <a href="https://www.linkedin.com/in/muhammad-yahya10" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
 <a href="https://github.com/yahyabhatti10" target="_blank" rel="noreferrer"><img src="https://w7.pngwing.com/pngs/914/758/png-transparent-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-banner-thumbnail.png" width="32" height="32" /></a> 
-<a href="https://twitter.com/yahya_bhatti10" target="_blank" rel="noreferrer"><img src="https://png.pngtree.com/element_our/sm/20180626/sm_5b32227ca3eb9.jpg" width="32" height="32" /></a>
+<a href="https://twitter.com/yahya_bhatti10" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="32" height="32" /></a>
 </p>
 
 
