@@ -5,8 +5,8 @@
 I am a dedicated Computer Science student at the prestigious University of Management and Technology, where I've been cultivating a deep-rooted passion for programming, problem-solving, and technology exploration. With a keen eye for detail and an insatiable curiosity, I am on a continuous journey to evolve as a developer while staying ahead in the dynamic world of technology.
 
 
-- 🔭 I’m currently working on MERN Stack Web Development
-- 🌱 I’m currently learning Machine Learning, Deep Learning, AI Core Courses
+- 🔭 I’m currently working on Web Development
+- 🌱 I’m currently learning Machine Learning, Django and React
 - ✉️  You can contact me at [yahyabhatti019@gmail.com](mailto:yahyabhatti019@gmail.com)
 - 🌏 Based in Lahore, Pakistan
 
