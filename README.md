@@ -32,4 +32,8 @@ My passion for technology extends to the realms of Machine Learning and Artifici
 <a href="https://twitter.com/yahya_bhatti10" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="32" height="32" /></a>
 </p>
 
+### Stats
+![yahyabhatti10's Stats](https://github-readme-stats.vercel.app/api?username=yahyabhatti10&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+
 
