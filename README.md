@@ -35,9 +35,4 @@ My passion for technology extends to the realms of Machine Learning and Artifici
 ### Stats
 ![yahyabhatti10's Stats](https://github-readme-stats.vercel.app/api?username=yahyabhatti10&theme=merko&show_icons=true&hide_border=true&count_private=true)
 
-tokyonight
-onedark
-cobalt
-synthwave
-
 
