@@ -6,12 +6,12 @@ I am a dedicated Computer Science student at the prestigious University of Manag
 
 
 - 🔭 I’m currently working on Web Applications
-- 🌱 I’m currently learning Computer Vision and Artificial Intelligence
+- 🌱 I’m currently learning Artificial Intelligence and Generative AI
 - ✉️  You can contact me at [yahyabhatti019@gmail.com](mailto:yahyabhatti019@gmail.com)
 - 🌏 Based in Lahore, Pakistan
 
 ### 💡 Interests
-My passion for technology extends to the realms of Machine Learning and Artificial Intelligence. Eager to stay up-to-date with the latest advancements, I find myself captivated by the potential of AI to reshape industries and solve complex problems. I am currently on the lookout for an internship opportunity that will allow me to contribute my skills to a dynamic team and learn from experienced professionals. I am excited about diving into challenging projects that push my boundaries and provide invaluable learning experiences.
+My passion for technology extends to the realms of Artificial Intelligence and Generative AI. Eager to stay up-to-date with the latest advancements, I find myself captivated by the potential of AI to reshape industries and solve complex problems. I am currently on the lookout for an internship opportunity that will allow me to contribute my skills to a dynamic team and learn from experienced professionals. I am excited about diving into challenging projects that push my boundaries and provide invaluable learning experiences.
 
 ### Skills
 
