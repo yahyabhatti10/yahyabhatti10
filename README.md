@@ -7,7 +7,7 @@ I am a dedicated Computer Science student at the prestigious University of Manag
 
 - 🔭 I’m currently working on Web Applications
 - 🌱 I’m currently learning Artificial Intelligence and Generative AI
-- ✉️  You can contact me at [yahyabhatti019@gmail.com](mailto:yahyabhatti019@gmail.com)
+- ✉️  You can contact me at [muhammadyahya.work@gmail.com](mailto:muhammadyahya.work@gmail.com)
 - 🌏 Based in Lahore, Pakistan
 
 ### 💡 Interests
