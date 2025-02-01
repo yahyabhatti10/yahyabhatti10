@@ -12,12 +12,12 @@ I am a dedicated Full Stack Software Engineer passionate about creating scalable
 - 🌏 Based in Lahore, Pakistan
 
 
-## 💡 Interests
+# 💡 Interests
 My passion for technology extends to the realms of Artificial Intelligence and Generative AI. Eager to stay up-to-date with the latest advancements, I find myself captivated by the potential of AI to reshape industries and solve complex problems. I am currently on the lookout for an internship opportunity that will allow me to contribute my skills to a dynamic team and learn from experienced professionals. I am excited about diving into challenging projects that push my boundaries and provide invaluable learning experiences.
 
 # Skills
 
-## Languages
+### Languages
 [![My Skills](https://skillicons.dev/icons?i=python)](python)
 [![My Skills](https://skillicons.dev/icons?i=cpp)](cpp)
 [![My Skills](https://skillicons.dev/icons?i=javascript)](javascript)
@@ -25,41 +25,41 @@ My passion for technology extends to the realms of Artificial Intelligence and G
 [![My Skills](https://skillicons.dev/icons?i=html)](HTML)
 [![My Skills](https://skillicons.dev/icons?i=css)](CSS) 
 
-## Backend Development
+### Backend Development
 [![My Skills](https://skillicons.dev/icons?i=django)](Django)
 [![My Skills](https://skillicons.dev/icons?i=fastapi)](FastApi)
 [![My Skills](https://skillicons.dev/icons?i=postman)](Postman)
 
-## Frontend Development
+### Frontend Development
 [![My Skills](https://skillicons.dev/icons?i=react)](react)
 [![My Skills](https://skillicons.dev/icons?i=bootstrap)](Bootstrap)
 [![My Skills](https://skillicons.dev/icons?i=tailwind)](tailwind)
 
-## Databases
+### Databases
 [![My Skills](https://skillicons.dev/icons?i=mysql)](MySql)
 [![My Skills](https://skillicons.dev/icons?i=postgresql)](Postgres)
 
-## Version Control
+### Version Control
 [![My Skills](https://skillicons.dev/icons?i=git)](Git)
 [![My Skills](https://skillicons.dev/icons?i=github)](GitHub)
 
-## IDE
+### IDE
 [![My Skills](https://skillicons.dev/icons?i=vscode)](VSCode) 
 [![My Skills](https://skillicons.dev/icons?i=visualstudio)](visualstudio)
 [![My Skills](https://skillicons.dev/icons?i=pycharm)](Pycharm)
 
-## Design
+### Design
 [![My Skills](https://skillicons.dev/icons?i=figma)](Figma)
 [![My Skills](https://skillicons.dev/icons?i=ai)](Illustrator)
 [![My Skills](https://skillicons.dev/icons?i=ps)](Photoshop)
 
-## OS
+### OS
 [![My Skills](https://skillicons.dev/icons?i=windows)](Windows)
 [![My Skills](https://skillicons.dev/icons?i=linux)](Linux)
 [![My Skills](https://skillicons.dev/icons?i=ubuntu)](Ubuntu)
 [![My Skills](https://skillicons.dev/icons?i=apple)](Apple)
 
-## Socials
+# Socials
 <a href="mailto:muhammadyahya.work@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
 </a>
@@ -76,10 +76,10 @@ My passion for technology extends to the realms of Artificial Intelligence and G
   <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
 </a>
 
-## Github Stats
+# Github Stats
 ![yahyabhatti10's Stats](https://github-readme-stats.vercel.app/api?username=yahyabhatti10&theme=merko&show_icons=true&hide_border=true&count_private=true)
 
-## Top Languages
+# Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yahyabhatti10&theme=merko&hide_progress=true)
 
 
