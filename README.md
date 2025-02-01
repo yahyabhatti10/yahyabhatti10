@@ -1,10 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&duration=3500&pause=1000&color=DDFE35&center=true&vCenter=true&width=1500&height=100&lines=Python+%7C+Django+%7C+ReactJS)](https://git.io/typing-svg)
 
-## Hey there 👋, I'm [Yahya](https://www.linkedin.com/in/muhammad-yahya10)!
 
-### Python/Django - React.js Developer 🧠🌐
+# Introduction
 
-I am a dedicated Computer Science student at the prestigious University of Management and Technology, where I've been cultivating a deep-rooted passion for programming, problem-solving, and technology exploration. With a keen eye for detail and an insatiable curiosity, I am on a continuous journey to evolve as a developer while staying ahead in the dynamic world of technology.
+I am a dedicated Full Stack Software Engineer passionate about creating scalable, high-performance web applications and software solutions. With expertise in modern frontend frameworks like React.js and backend technologies including Python Django REST, Node.js, and Express.js, I thrive on delivering seamless user experiences and robust systems. My interests include building innovative solutions in AI leveraging cutting-edge tools like LangChain. Passionate about problem-solving, I enjoy challenges like LeetCoding and continuously improving my skills to tackle complex technical problems. With a keen interest in AI, Generative AI, Machine Learning, Deep Learning, Neural Networks, and a vast knowledge of LLMs, I stay curious about advancements that shape the future of technology. Always eager to explore new challenges, I focus on crafting efficient, user-friendly applications that drive impact.
 
 
 - 🔭 I’m currently working on Web Applications
@@ -12,29 +11,75 @@ I am a dedicated Computer Science student at the prestigious University of Manag
 - ✉️  You can contact me at [muhammadyahya.work@gmail.com](mailto:muhammadyahya.work@gmail.com)
 - 🌏 Based in Lahore, Pakistan
 
-### 💡 Interests
+
+## 💡 Interests
 My passion for technology extends to the realms of Artificial Intelligence and Generative AI. Eager to stay up-to-date with the latest advancements, I find myself captivated by the potential of AI to reshape industries and solve complex problems. I am currently on the lookout for an internship opportunity that will allow me to contribute my skills to a dynamic team and learn from experienced professionals. I am excited about diving into challenging projects that push my boundaries and provide invaluable learning experiences.
 
-### Skills
+# Skills
 
-<p align="left" >
-<a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://brandslogos.com/wp-content/uploads/thumbs/c-logo-vector.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.freebiesupply.com/logos/large/2x/mysql-5-logo-png-transparent.png" width="36" height="36" alt="MySQL" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="36" height="36" alt="Javascript" /></a>
-</p>
+## Languages
+[![My Skills](https://skillicons.dev/icons?i=python)](python)
+[![My Skills](https://skillicons.dev/icons?i=cpp)](cpp)
+[![My Skills](https://skillicons.dev/icons?i=javascript)](javascript)
+[![My Skills](https://skillicons.dev/icons?i=ts)](ts)
+[![My Skills](https://skillicons.dev/icons?i=html)](HTML)
+[![My Skills](https://skillicons.dev/icons?i=css)](CSS) 
 
-### Socials
+## Backend Development
+[![My Skills](https://skillicons.dev/icons?i=django)](Django)
+[![My Skills](https://skillicons.dev/icons?i=fastapi)](FastApi)
+[![My Skills](https://skillicons.dev/icons?i=postman)](Postman)
 
-<p align="left"> 
-<a href="https://www.linkedin.com/in/muhammad-yahya10" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>  
-<a href="https://twitter.com/yahya_bhatti10" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="32" height="32" /></a>
-</p>
+## Frontend Development
+[![My Skills](https://skillicons.dev/icons?i=react)](react)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap)](Bootstrap)
+[![My Skills](https://skillicons.dev/icons?i=tailwind)](tailwind)
 
-### Stats
+## Databases
+[![My Skills](https://skillicons.dev/icons?i=mysql)](MySql)
+[![My Skills](https://skillicons.dev/icons?i=postgresql)](Postgres)
+
+## Version Control
+[![My Skills](https://skillicons.dev/icons?i=git)](Git)
+[![My Skills](https://skillicons.dev/icons?i=github)](GitHub)
+
+## IDE
+[![My Skills](https://skillicons.dev/icons?i=vscode)](VSCode) 
+[![My Skills](https://skillicons.dev/icons?i=visualstudio)](visualstudio)
+[![My Skills](https://skillicons.dev/icons?i=pycharm)](Pycharm)
+
+## Design
+[![My Skills](https://skillicons.dev/icons?i=figma)](Figma)
+[![My Skills](https://skillicons.dev/icons?i=ai)](Illustrator)
+[![My Skills](https://skillicons.dev/icons?i=ps)](Photoshop)
+
+## OS
+[![My Skills](https://skillicons.dev/icons?i=windows)](Windows)
+[![My Skills](https://skillicons.dev/icons?i=linux)](Linux)
+[![My Skills](https://skillicons.dev/icons?i=ubuntu)](Ubuntu)
+[![My Skills](https://skillicons.dev/icons?i=apple)](Apple)
+
+## Socials
+<a href="mailto:muhammadyahya.work@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+</a>
+<a href="https://www.linkedin.com/in/muhammad-yahya10/">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
+<a href="https://github.com/yahyabhatti10">
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+</a>
+<a href="https://www.instagram.com/ctrl_alt_devv/">
+  <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+</a>
+<a href="https://twitter.com/yahya_bhatti10">
+  <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
+</a>
+
+## Github Stats
 ![yahyabhatti10's Stats](https://github-readme-stats.vercel.app/api?username=yahyabhatti10&theme=merko&show_icons=true&hide_border=true&count_private=true)
+
+## Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yahyabhatti10&theme=merko&hide_progress=true)
 
 
