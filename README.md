@@ -11,10 +11,6 @@ I am a dedicated Full Stack Software Engineer passionate about creating scalable
 - ✉️  You can contact me at [muhammadyahya.work@gmail.com](mailto:muhammadyahya.work@gmail.com)
 - 🌏 Based in Lahore, Pakistan
 
-
-# 💡 Interests
-My passion for technology extends to the realms of Artificial Intelligence and Generative AI. Eager to stay up-to-date with the latest advancements, I find myself captivated by the potential of AI to reshape industries and solve complex problems. I am currently on the lookout for an internship opportunity that will allow me to contribute my skills to a dynamic team and learn from experienced professionals. I am excited about diving into challenging projects that push my boundaries and provide invaluable learning experiences.
-
 # Skills
 
 ### Languages
