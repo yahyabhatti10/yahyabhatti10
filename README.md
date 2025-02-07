@@ -18,8 +18,7 @@ I am a dedicated Full Stack Software Engineer passionate about creating scalable
 [![My Skills](https://skillicons.dev/icons?i=cpp)](cpp)
 [![My Skills](https://skillicons.dev/icons?i=javascript)](javascript)
 [![My Skills](https://skillicons.dev/icons?i=ts)](ts)
-[![My Skills](https://skillicons.dev/icons?i=html)](HTML)
-[![My Skills](https://skillicons.dev/icons?i=css)](CSS) 
+
 
 ### Backend Development
 [![My Skills](https://skillicons.dev/icons?i=django)](Django)
@@ -30,6 +29,8 @@ I am a dedicated Full Stack Software Engineer passionate about creating scalable
 [![My Skills](https://skillicons.dev/icons?i=react)](react)
 [![My Skills](https://skillicons.dev/icons?i=bootstrap)](Bootstrap)
 [![My Skills](https://skillicons.dev/icons?i=tailwind)](tailwind)
+[![My Skills](https://skillicons.dev/icons?i=html)](HTML)
+[![My Skills](https://skillicons.dev/icons?i=css)](CSS) 
 
 ### Databases
 [![My Skills](https://skillicons.dev/icons?i=mysql)](MySql)
