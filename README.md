@@ -74,9 +74,9 @@ I am a dedicated Full Stack Software Engineer passionate about creating scalable
 </a>
 
 # Github Stats
-![yahyabhatti10's Stats](https://github-readme-stats.vercel.app/api?username=yahyabhatti10&theme=merko&show_icons=true&hide_border=true&count_private=true)
+![yahyabhatti10's Stats](https://github-readme-stats.vercel.app/api?username=yahyabhatti10&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
 # Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yahyabhatti10&theme=merko&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yahyabhatti10&theme=dark&hide_progress=true)
 
 
